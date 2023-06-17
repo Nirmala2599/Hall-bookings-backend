@@ -1,0 +1,84 @@
+ [
+        {
+            "id": "6h03s2ao0liziy9qf",
+            "roomNo": 100,
+            "bookings": [],
+            "noSeats": "21",
+            "amenities": [
+                "AC"
+            ],
+            "price": 250
+        },
+        {
+            "id": "6h03s2ao0lizj0507",
+            "roomNo": 101,
+            "bookings": [],
+            "noSeats": "1",
+            "amenities": [
+                "AC",
+                "TV",
+                "Network-Access"
+            ],
+            "price": 200
+        },
+        {
+            "id": "6h03s2ao0lizj0ia1",
+            "roomNo": 102,
+            "bookings": [],
+            "noSeats": "2",
+            "amenities": [
+                "AC",
+                "TV",
+                "Network-Access"
+            ],
+            "price": 200
+        },
+        {
+            "id": "6h03s2ao0lizj0nca",
+            "roomNo": 103,
+            "bookings": [],
+            "noSeats": "3",
+            "amenities": [
+                "AC",
+                "TV",
+                "Network-Access"
+            ],
+            "price": 200
+        },
+        {
+            "id": "6h03s2ao0lizj0s1x",
+            "roomNo": 104,
+            "bookings": [],
+            "noSeats": "4",
+            "amenities": [
+                "AC",
+                "TV",
+                "Network-Access"
+            ],
+            "price": 200
+        },
+        {
+            "id": "6h03s2ao0lizj1vxd",
+            "roomNo": 105,
+            "bookings": [],
+            "noSeats": "5",
+            "amenities": [
+                "AC",
+                "TV",
+                "Network-Access"
+            ],
+            "price": 400
+        },
+        {
+            "id": "6h03s2ao0lizj29cx",
+            "roomNo": 106,
+            "bookings": [],
+            "noSeats": "6",
+            "amenities": [
+                "Ac",
+                "TV",
+                "Network-Access"
+            ],
+            "price": 400
+        }
+    ]
